@@ -1,0 +1,14 @@
+/* CSS Document */
+body {
+    align-content: center;
+	font-size: 13px;
+	font-size: 1.3rem;
+	line-height: 140%;
+	font-family: arial,freeSans,sans-serif;
+	color: #173757;
+	background: #e9edf0;
+}
+h1 {
+    font: normal 1.7rem TheSerifOffice,georgia,serif;
+    color: rgb(197, 70, 70);
+}
